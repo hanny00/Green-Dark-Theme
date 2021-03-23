@@ -1,4 +1,4 @@
-![Screenshot] (Screenshot_2.png)
+![Screenshot](Screenshot_2.png)
 ﻿Dark Theme for Mailspring with green colors 
 Summary 📍 A fresher theme inspired by the KDE-Plasma Desktop Environment Themes with a splashof green colors 💻 Easy to install into
 Mailspring; 🎉 Open source 
