@@ -1,6 +1,6 @@
 {
-  "name": "green dark theme",
-  "displayName": "greendark theme",
+  "name": "green-dark-theme",
+  "displayName": "green dark theme",
   "theme": "ui",
   "version": "0.0.1",
   "description": "dark theme with green text inside Mailspring.",
